@@ -1,0 +1,26 @@
+{
+  "name": "gulp_json_assembler",
+  "version": "1.0.0",
+  "description": "Gulp task-runner I built, assembles a directory of json files into one json file",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp build-json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmz527/gulp_json_assembler.git"
+  },
+  "author": {
+    "name": "james rutledge",
+    "email": "james.rutledge@energymetricsllc.com",
+    "url": "https://github.com/jmz527"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmz527/gulp_json_assembler/issues"
+  },
+  "homepage": "https://github.com/jmz527/gulp_json_assembler#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
