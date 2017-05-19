@@ -1,0 +1,39 @@
+{
+    "array": [
+        {
+            "fetching": false,
+            "fetched": false,
+            "error": false
+        },
+        {
+            "fetching": false,
+            "fetched": false,
+            "error": false
+        },
+        {
+            "fetching": false,
+            "fetched": false,
+            "error": false
+        }
+    ],
+    "tree": {
+        "Name": "Level 1",
+        "Id": 0,
+        "Children": [
+            {
+                "Name": "Level 2 - 1st Child",
+                "Id": 1,
+                "fetching": false,
+                "fetched": false,
+                "error": false
+            },
+            {
+                "Name": "Level 2 - 2nd Child",
+                "Id": 2,
+                "fetching": false,
+                "fetched": false,
+                "error": false
+            }
+        ]
+    }
+}
